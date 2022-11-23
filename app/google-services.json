@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "215059200375",
+    "project_id": "and-ch7",
+    "storage_bucket": "and-ch7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215059200375:android:7f0a900ed840bface04972",
+        "android_client_info": {
+          "package_name": "com.alfrsms.and_ch7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215059200375-v05qsq6jgiojdsa04ltoiu7ku6t7r1la.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alfrsms.and_ch7",
+            "certificate_hash": "fcae70c7cb22f10036500c541f0f46042fceca3e"
+          }
+        },
+        {
+          "client_id": "215059200375-5qj6n28ftajtmnm4vbgpqen44ngtf0f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtCn2Lx7cS8NvCbFXGqhs8hZxr3I-wnGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215059200375-5qj6n28ftajtmnm4vbgpqen44ngtf0f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
