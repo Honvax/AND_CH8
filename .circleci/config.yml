@@ -2,7 +2,7 @@ version: 2.1
 orbs:
   android: circleci/android@1.0.3
 jobs:
-  build-and-test:
+  build:
     executor:
       name: android/android-machine
     steps:
@@ -45,4 +45,4 @@ jobs:
 workflows:
   checking:
       jobs:
-      - build-and-test
+      - build
